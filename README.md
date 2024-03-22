@@ -1,4 +1,4 @@
-A python calculator with speech recognition and text-to-speech. 
+This is a python calculator with speech recognition and text-to-speech. 
 It can make basic calculations like addition, subtraction, multiplication and division.
 It can also make interest calculations.
 Results are displayed in the GUI and told out loud with text-to-speech.
